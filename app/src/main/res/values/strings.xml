@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">단디펀딩</string>
+    <string name="url">http://www.dandyfunding.com/app.php</string>
+    <string name="domain">http://www.dandyfunding.com</string>
+    <string name="url2">http://www.dandyfunding.com//bbs/myaccount.php</string>
+    <string name="url3">http://www.dandyfunding.com//bbs/mypage.php</string>
+</resources>
